@@ -57840,6 +57840,9 @@
 	<programme channel="newtv超级综艺" start="20261110140300 +0800" stop="20261110152000 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20261110152000 +0800" stop="20261110163000 +0800">
+		<title lang="zh">国家宝藏 展演季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -57983,6 +57986,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20261110143800 +0800" stop="20261110152300 +0800">
 		<title lang="zh">17_梦中的那片海</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261110152300 +0800" stop="20261110160800 +0800">
+		<title lang="zh">18_梦中的那片海</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -58604,6 +58610,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261110144800 +0800" stop="20261110152300 +0800">
 		<title lang="zh">美国云杉新一代强力PPC结节通-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261110152300 +0800" stop="20261110160400 +0800">
+		<title lang="zh">12_欢颜</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
