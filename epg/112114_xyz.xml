@@ -17382,6 +17382,9 @@
 	<programme channel="咪咕综合体育" start="20261110130000 +0800" stop="20261110144000 +0800">
 		<title lang="zh">英超赛场-26/27赛季 英超 第9轮 切尔西-曼联</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20261110144500 +0800" stop="20261110162500 +0800">
+		<title lang="zh">当燃CBA-26/27赛季常规赛第3轮 上海久事-福建晋江文旅</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17435,6 +17438,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20261110121000 +0800" stop="20261110141000 +0800">
 		<title lang="zh">网球世界-2026WTA年终总决赛 精彩回顾2</title>
+	</programme>
+	<programme channel="咪咕足球" start="20261110142000 +0800" stop="20261110164500 +0800">
+		<title lang="zh">一杆定音-2026斯诺克深圳公开赛 决赛第二阶段 吴宜泽-袁思俊</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -57831,6 +57837,9 @@
 	<programme channel="newtv超级综艺" start="20261110123300 +0800" stop="20261110140300 +0800">
 		<title lang="zh">味你而来</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20261110140300 +0800" stop="20261110152000 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -57876,6 +57885,9 @@
 	<programme channel="newtv超级体育" start="20261110125800 +0800" stop="20261110143000 +0800">
 		<title lang="zh">实况录像-2026/2027赛季斯诺克国际锦标赛 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20261110143000 +0800" stop="20261110160000 +0800">
+		<title lang="zh">实况录像-2026中国杯世界花样滑冰大奖赛 女子单人滑</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -57905,6 +57917,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20261110132200 +0800" stop="20261110145900 +0800">
 		<title lang="zh">皇牌空战</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20261110145900 +0800" stop="20261110164400 +0800">
+		<title lang="zh">鬼吹灯之南海归墟</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -57965,6 +57980,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20261110135200 +0800" stop="20261110143800 +0800">
 		<title lang="zh">16_梦中的那片海</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261110143800 +0800" stop="20261110152300 +0800">
+		<title lang="zh">17_梦中的那片海</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -58580,6 +58598,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261110133500 +0800" stop="20261110140500 +0800">
 		<title lang="zh">美好生活第二期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261110140500 +0800" stop="20261110144800 +0800">
+		<title lang="zh">11_欢颜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261110144800 +0800" stop="20261110152300 +0800">
+		<title lang="zh">美国云杉新一代强力PPC结节通-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
